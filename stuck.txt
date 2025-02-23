@@ -1,0 +1,10 @@
+Where I am stuck.
+
+I do not know whether my Ship class is correct. Especially isSunk method and properties. 
+
+If no one replies to me, here is the things that I can do :
+
+a)Search old posts related to this (take caution to not look at the full code)
+
+b)Try to test your code.
+
